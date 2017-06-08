@@ -18,7 +18,7 @@
   </style>
 </head>
 <body>
-  <h1>Konnichiwa sekai</h1>
+  <h1>Hello world</h1>
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
 </body>
 </html>
